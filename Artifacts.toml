@@ -1,0 +1,8 @@
+[[Qt5Svg]]
+arch = "x86_64"
+git-tree-sha1 = "79b7d29918b6e45d46367259de5bc8025e8d9fe2"
+os = "macos"
+
+    [[Qt5Svg.download]]
+    sha256 = "8d0b36f7b57549299bfc40bd44f4c1c3c7a27604a702dc39603b0bc8bda9a135"
+    url = "https://github.com/barche/Qt5Svg_jll.jl/releases/download/Qt5Svg-v5.15.2+0/Qt5Svg.v5.15.2.x86_64-apple-darwin.tar.gz"
